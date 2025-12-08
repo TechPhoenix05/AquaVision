@@ -1,6 +1,6 @@
-# AquaVision
+# MicroPi
 
-This repository contains the AquaVision project — a multi-disciplinary project containing mechanical designs, electronics, firmware, software, and AI models.
+This repository contains the MicroPi project — a multi-disciplinary project containing mechanical designs, electronics, firmware, software, and AI models.
 
 Directory layout (top-level):
 
